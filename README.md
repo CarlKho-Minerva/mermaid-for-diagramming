@@ -1,10 +1,5 @@
 # Why Use Mermaid for Software Architecture Documentation
 
-## Overview
-This repository demonstrates the power of Mermaid diagrams for documenting software architecture, particularly in an LLM-driven development world.
-
-## Benefits
-
 ### 1. LLM-Friendly
 - Plain text format that can be parsed by language models
 - Version control friendly - easy to track changes
